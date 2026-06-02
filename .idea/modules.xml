@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../02/.idea/02.iml" filepath="$PROJECT_DIR$/../02/.idea/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03/.idea/03.iml" filepath="$PROJECT_DIR$/../03/.idea/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04/.idea/04.iml" filepath="$PROJECT_DIR$/../04/.idea/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05/.idea/05.iml" filepath="$PROJECT_DIR$/../05/.idea/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06/.idea/06.iml" filepath="$PROJECT_DIR$/../06/.idea/06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07/.idea/07.iml" filepath="$PROJECT_DIR$/../07/.idea/07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject.iml" filepath="$PROJECT_DIR$/.idea/PythonProject.iml" />
+      <module fileurl="file://D:/py课件/09_数据挖掘案例-南方电网电力负荷预测/03-代码/load_predict_project/.idea/load_predict_project.iml" filepath="D:/py课件/09_数据挖掘案例-南方电网电力负荷预测/03-代码/load_predict_project/.idea/load_predict_project.iml" />
+      <module fileurl="file://D:/py课件/09_数据挖掘案例-南方电网电力负荷预测/03-代码/load_predict_project(完整代码)/.idea/load_predict_project(完整代码).iml" filepath="D:/py课件/09_数据挖掘案例-南方电网电力负荷预测/03-代码/load_predict_project(完整代码)/.idea/load_predict_project(完整代码).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../电力负荷预测/.idea/电力负荷预测.iml" filepath="$PROJECT_DIR$/../电力负荷预测/.idea/电力负荷预测.iml" />
+    </modules>
+  </component>
+</project>

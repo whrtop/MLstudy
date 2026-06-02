@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.13 (PythonProject)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="02" />
+    <orderEntry type="module" module-name="03" />
+    <orderEntry type="module" module-name="04" />
+    <orderEntry type="module" module-name="05" />
+    <orderEntry type="module" module-name="06" />
+    <orderEntry type="module" module-name="07" />
+    <orderEntry type="module" module-name="电力负荷预测" />
+    <orderEntry type="module" module-name="load_predict_project(完整代码)" />
+    <orderEntry type="module" module-name="load_predict_project" />
+  </component>
+</module>
